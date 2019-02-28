@@ -2,7 +2,7 @@
 PJ 10 Miler Website Folders/Files
 thuynh
 =====================================
-2/284/2019: Updates
+2/28/2019: Updates
 This update contains changes to 2019 Registration and Info pages.
 
 index-1.html
