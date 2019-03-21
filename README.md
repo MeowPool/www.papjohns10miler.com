@@ -2,6 +2,12 @@
 PJ 10 Miler Website Folders/Files
 thuynh
 =====================================
+3/21/2019: Updates
+This update contains changes to Social Media page.
+
+social.html
+
+=====================================
 3/11/2019: Updates
 This update contains changes to 2019 Results page.
 
